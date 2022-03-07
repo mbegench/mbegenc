@@ -1,3 +1,3 @@
 Begench Muhammetberdiyew
 
-https://github-readme-stats.vercel.app/api?username=mbegenc&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
