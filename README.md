@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Begench</h1>
-<h3 align="center">A passionate backend developer from Turkmenistan</h3>
-
-- 🌱 I’m currently learning **TDD, DDD**
+<h3 align="center">Android Ios dev</h3>
 
 - :blue_book: I’m currently reading **Flutter in action**
 
